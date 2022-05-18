@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloCShrarp", "TrianguloCShrarp\TrianguloCShrarp.csproj", "{FB5CF44F-87B8-4B29-8EF1-0D2C0716D7E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5CF44F-87B8-4B29-8EF1-0D2C0716D7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5CF44F-87B8-4B29-8EF1-0D2C0716D7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5CF44F-87B8-4B29-8EF1-0D2C0716D7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5CF44F-87B8-4B29-8EF1-0D2C0716D7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB9E4706-CE32-4A3D-A892-CCC6D3B93A66}
+	EndGlobalSection
+EndGlobal

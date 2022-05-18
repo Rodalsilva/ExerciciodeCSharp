@@ -1,0 +1,13 @@
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.csproj.AssemblyReference.cache
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.AssemblyInfoInputs.cache
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.AssemblyInfo.cs
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.csproj.CoreCompileInputs.cache
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.exe
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.deps.json
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.runtimeconfig.json
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.runtimeconfig.dev.json
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.dll
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\bin\Debug\netcoreapp3.1\TrianguloCShrarp.pdb
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.dll
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.pdb
+C:\workspace_vs\TrianguloCShrarp\TrianguloCShrarp\obj\Debug\netcoreapp3.1\TrianguloCShrarp.genruntimeconfig.cache
